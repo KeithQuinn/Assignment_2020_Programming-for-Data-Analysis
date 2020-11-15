@@ -11,9 +11,10 @@ There were four distinct tasks completed as part of this assignment;
 - Task 3 - Explain the use and purpose of at least five “Distributions” functions.
 - Task 4 - Explain the use of seeds in generating pseudorandom numbers.
 
-This README provides a high level overview of the approach taken to complete the 4 aforementioned tasks.  For full details of the tasks refer to the jupyter notebook file; 'Assignment_2020_Programming for Data Analysis.ipynb' included in this repository
+This README provides a high level overview of the approach taken to complete the 4 aforementioned tasks.  For full details of the tasks refer to the jupyter notebook file; 'Assignment_2020_Programming for Data Analysis.ipynb' included in this repository.
 
 ***
+
 <br>
 
 ## 1 The overall purpose of the package explained
@@ -33,6 +34,7 @@ Before getting into the package the term random is defined.
 The capability of the numpy.random package is provided.
 
 ***
+
 <br>
 
 ## 2 - “Simple random data” and “Permutations” functions
@@ -85,7 +87,7 @@ Roll the dice and darts using the random.choice(s) method code discussed.
 
 ### 2.1.4 Using the NumPy random for demonstration
 
-Having discussed the NumPy random package, it's time to put it to a practical use which will be to prove the law of large numbers theorm.
+Having discussed the NumPy random package, a practical use namely the law of large numbers theorm was used for demonstration.
 
 <br>
 
@@ -127,7 +129,12 @@ Code discussed from playing the card game using random.shuffle and random.sample
 
 <br>
 
-## 3 - Use and purpose of 5 selected “Distributions” functions explained
+## 3 - Use and purpose of selected “Distributions” functions explained
+
+Five distributions were selected, researched and discussed from the list of distributions within the numpy.random package.
+
+<br>
+
 
 ## 3.1 Uniform Distribution
 
@@ -189,9 +196,11 @@ Code from data set discussed.
 
 ***
 
-## 4 The use of seeds in generating pseudorandom numbers explained
-
 <br>
+
+## 4 The use of seeds in generating pseudorandom numbers explained
+The importannce of a seed when generating random data is discussed.
+
 
 ## 4.1 Computers and Random
 
@@ -227,15 +236,23 @@ Pseudo-Random Number Generation from a Seed discussed and also setting a seed de
 
 Pseudo-Random Number Generation from a Seed discussed and also setting a seed - code discussed.
 
+***
+
+<br>
+
 ## 5 Summary
 
 Overall summary.
+
+***
 
 <br>
 
 ## 6 Conclusion
 
-Pactical assignment conclusion.
+Practical assignment conclusion.
+
+***
 
 <br>
 
