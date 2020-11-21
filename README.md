@@ -23,15 +23,15 @@ What the overall purpose of the numpy.random package is.
 
 <br>
 
-## 1.1 What does random mean
+## 1.1 Random Number Generation Using NumPy
 
-Before getting into the package the term random is defined.
+The capability of the numpy.random package is provided.
 
 <br>
 
-## 1.2 Random Number Generation Using NumPy
+## 1.2 What does random mean
 
-The capability of the numpy.random package is provided.
+Before getting into the package the term random is defined.
 
 ***
 
@@ -201,6 +201,7 @@ Code from data set discussed.
 ## 4 The use of seeds in generating pseudorandom numbers explained
 The importannce of a seed when generating random data is discussed.
 
+<br>
 
 ## 4.1 Computers and Random
 
@@ -216,7 +217,7 @@ True Random Number Generators discussed.
 
 ### 4.1.2 Pseudo-Random Number Generators (PRNGs)
 
-4.1.2 Pseudo-Random Number Generators (PRNGs) discussed.
+Pseudo-Random Number Generators (PRNGs) discussed.
 
 <br>
 
@@ -259,3 +260,9 @@ Practical assignment conclusion.
 ## 7 References
 
 Full list of references provided.
+
+***
+
+<br>
+
+## End
