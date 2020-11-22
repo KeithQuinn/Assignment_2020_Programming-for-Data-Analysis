@@ -202,7 +202,7 @@ Central limit theorm (CLT) applied to the uniform distribution from section 3.1.
 
 <br>
 
-### 3.6.1 Discussing the code from Poisson Distribution
+### 3.6.1 Discussing the code from Central Limit Theorem
 
 Code from CLT discussed.
 
