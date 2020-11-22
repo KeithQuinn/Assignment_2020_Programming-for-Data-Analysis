@@ -87,7 +87,7 @@ Roll the dice and darts using the random.choice(s) method code discussed.
 
 ### 2.1.4 Using the NumPy random for demonstration
 
-Having discussed the NumPy random package, a practical use namely the law of large numbers theorm was used for demonstration.
+Having discussed the NumPy random package, a practical use namely the law of large numbers theorem was used for demonstration.
 
 <br>
 
@@ -193,6 +193,18 @@ Data set generated, discussed and plotted.
 ### 3.5.1 Discussing the code from Exponential Distribution
 
 Code from data set discussed.
+
+<br>
+
+## 3.6 Central Limit Theorem 
+
+Central limit theorm (CLT) applied to the uniform distribution from section 3.1.
+
+<br>
+
+### 3.6.1 Discussing the code from Poisson Distribution
+
+Code from CLT discussed.
 
 ***
 
